@@ -1,1 +1,5 @@
 print("Kunai");
+
+
+
+print("Di ka niya mahal");
